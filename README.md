@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Colutti</h1>
-<h3 align="center">A Microsservice for promotions manager, developed using Kotlin, SpringBoot, Mysql and Docker</h3>
+<h3 align="center">A Microservice for promotions manager, developed using Kotlin, SpringBoot, Mysql and Docker</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
